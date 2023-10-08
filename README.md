@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🎋 I'm Melissa! I'm a Computer Science student in my senior year interested in backend, distributed systems, and open source.  
+🤩 I'm currently participating in Hacktoberfest and learning Rust :)  
+👩🏻‍💻 I've previously interned as a software engineer at LinkedIn and Red Hat. I also was an open source Outreachy intern with Ceph!  
+✨ Fun fact: I also have a degree in Health Science, and my enjoyment of open source is why I decided to pursue CS.   
+🎧 Recently got into audiobooks (currently reading Circe by Madeline Miller).
+
 <!--
 **melissa-kun-li/melissa-kun-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
